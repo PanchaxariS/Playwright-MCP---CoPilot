@@ -1,4 +1,4 @@
-# Playwright Automation Portfolio Project
+# Playwright MCP with CoPilot Project
 
 This repository is a polished example of an automation testing framework built with Playwright, designed to demonstrate strong UI and API testing practices in a modern, professional setup.
 
