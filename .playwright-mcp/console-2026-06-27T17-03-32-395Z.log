@@ -1,0 +1,2 @@
+[   61900ms] [LOG] carouFredSel: No element found for "#brandcarousal". @ https://automationteststore.com/storefront/view/default/javascript/jquery.carouFredSel.min.js:14
+[56998534ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://automationteststore.com/image/thumbnails/18/78/shoeblack_1_jpg-100235-500x500.jpg:0

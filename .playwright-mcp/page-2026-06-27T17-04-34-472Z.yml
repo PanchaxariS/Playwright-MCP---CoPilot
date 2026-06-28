@@ -1,0 +1,281 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "Automation Test Store" [ref=e7] [cursor=pointer]:
+          - /url: https://automationteststore.com/
+          - img "Automation Test Store" [ref=e8]
+        - generic [ref=e10]:
+          - list [ref=e13]:
+            - listitem [ref=e14]:
+              - link "Login or register" [ref=e15] [cursor=pointer]:
+                - /url: https://automationteststore.com/index.php?rt=account/login
+          - generic [ref=e17]:
+            - generic [ref=e18]: Main Menu
+            - text:      
+            - combobox [ref=e19]:
+              - option "Main Menu" [selected]
+              - option "Specials"
+              - option "Account"
+              - option "Login"
+              - option "Check Your Order"
+              - option "Cart"
+              - option "Checkout"
+          - generic [ref=e22]:
+            - textbox "Search Keywords" [ref=e23]
+            - generic "Go" [ref=e24] [cursor=pointer]:
+              - generic [ref=e25]: 
+    - generic [ref=e27]:
+      - list [ref=e29]:
+        - listitem [ref=e30]:
+          - generic [ref=e32]: $ US Dollar
+      - list [ref=e35]:
+        - listitem [ref=e36]:
+          - link " 0 Items - $0.00" [ref=e37] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=checkout/cart
+            - generic [ref=e38]: 
+            - text: 0 Items - $0.00
+          - text:   
+      - generic [ref=e41]:
+        - link "Facebook" [ref=e42] [cursor=pointer]:
+          - /url: http://www.facebook.com
+        - link "Twitter" [ref=e43] [cursor=pointer]:
+          - /url: https://twitter.com/
+        - link "Linkedin" [ref=e44] [cursor=pointer]:
+          - /url: https://uk.linkedin.com/
+  - generic [ref=e45]:
+    - navigation [ref=e48]:
+      - list [ref=e49]:
+        - listitem [ref=e50]:
+          - link "Home" [ref=e51] [cursor=pointer]:
+            - /url: https://automationteststore.com/
+          - text:      
+        - listitem [ref=e52]:
+          - link "Apparel & accessories" [ref=e53] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/category&path=68
+        - listitem [ref=e54]:
+          - link "Makeup" [ref=e55] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/category&path=36
+        - listitem [ref=e56]:
+          - link "Skincare" [ref=e57] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/category&path=43
+        - listitem [ref=e58]:
+          - link "Fragrance" [ref=e59] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/category&path=49
+        - listitem [ref=e60]:
+          - link "Men" [ref=e61] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/category&path=58
+        - listitem [ref=e62]:
+          - link "Hair Care" [ref=e63] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/category&path=52
+        - listitem [ref=e64]:
+          - link "Books" [ref=e65] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/category&path=65
+    - list [ref=e68]:
+      - listitem [ref=e69]:
+        - link " Home" [ref=e70] [cursor=pointer]:
+          - /url: https://automationteststore.com/
+          - generic "Home" [ref=e71]: 
+          - text: Home
+      - listitem [ref=e72]:
+        - text: 
+        - link "Womens high heel point toe stiletto sandals ankle strap court shoes" [ref=e73] [cursor=pointer]:
+          - /url: https://automationteststore.com/index.php?rt=product/product&product_id=118
+  - generic [ref=e75]:
+    - generic [ref=e77]:
+      - heading "Latest Products" [level=2] [ref=e78]
+      - list [ref=e79]:
+        - listitem [ref=e80]:
+          - link "Absolute Anti-Age Spot Replenishing Unifying TreatmentSPF 15":
+            - /url: https://automationteststore.com/index.php?rt=product/product&product_id=68
+            - img "Absolute Anti-Age Spot Replenishing Unifying TreatmentSPF 15" [ref=e81] [cursor=pointer]
+          - link "Absolute Anti-Age Spot Replenishing Unifying TreatmentSPF 15" [ref=e82] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/product&product_id=68
+          - generic [ref=e83]: $42.00
+        - listitem [ref=e84]:
+          - link "Absolue Eye Precious Cells":
+            - /url: https://automationteststore.com/index.php?rt=product/product&product_id=65
+            - img "Absolue Eye Precious Cells" [ref=e85] [cursor=pointer]
+          - link "Absolue Eye Precious Cells" [ref=e86] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/product&product_id=65
+          - generic [ref=e87]: $89.00 $105.00
+        - listitem [ref=e88]:
+          - link "Total Moisture Facial Cream":
+            - /url: https://automationteststore.com/index.php?rt=product/product&product_id=66
+            - img "Total Moisture Facial Cream" [ref=e89] [cursor=pointer]
+          - link "Total Moisture Facial Cream" [ref=e90] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/product&product_id=66
+          - generic [ref=e91]: $38.00
+        - listitem [ref=e92]:
+          - link "Flash Bronzer Body Gel":
+            - /url: https://automationteststore.com/index.php?rt=product/product&product_id=67
+            - img "Flash Bronzer Body Gel" [ref=e93] [cursor=pointer]
+          - link "Flash Bronzer Body Gel" [ref=e94] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=product/product&product_id=67
+          - generic [ref=e95]: $29.00 $34.50
+    - generic [ref=e97]:
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - list [ref=e101]:
+            - listitem [ref=e102]:
+              - link [ref=e103] [cursor=pointer]:
+                - /url: Javascript:void(0);
+            - listitem [ref=e104]:
+              - link [ref=e105] [cursor=pointer]:
+                - /url: Javascript:void(0);
+            - listitem [ref=e106]:
+              - link [ref=e107] [cursor=pointer]:
+                - /url: Javascript:void(0);
+            - listitem [ref=e108]:
+              - link [ref=e109] [cursor=pointer]:
+                - /url: Javascript:void(0);
+            - listitem [ref=e110]:
+              - link [ref=e111] [cursor=pointer]:
+                - /url: Javascript:void(0);
+            - listitem [ref=e112]:
+              - link [ref=e113] [cursor=pointer]:
+                - /url: Javascript:void(0);
+          - link "" [ref=e115] [cursor=pointer]:
+            - /url: //automationteststore.com/image/thumbnails/18/78/shoeblack_1_jpg-100235-500x500.jpg
+            - generic [ref=e116]: 
+        - generic [ref=e119]:
+          - heading "Womens high heel point toe stiletto sandals ankle strap court shoes" [level=1] [ref=e120]
+          - generic [ref=e123]: $26.00
+          - group [ref=e126]:
+            - generic [ref=e127]:
+              - generic [ref=e128]: Colour
+              - generic [ref=e129]:
+                - generic [ref=e130]:
+                  - radio "black" [checked] [ref=e131]
+                  - text: black
+                - generic [ref=e132]:
+                  - radio "red" [ref=e133]
+                  - text: red
+                - generic [ref=e134]:
+                  - radio "green" [ref=e135]
+                  - text: green
+                - generic [ref=e136]:
+                  - radio "blue" [ref=e137]
+                  - text: blue
+                - generic [ref=e138]:
+                  - radio "white" [ref=e139]
+                  - text: white
+                - text: "*"
+            - generic [ref=e141]:
+              - generic [ref=e142]: "Qty:"
+              - textbox [ref=e143]: "1"
+            - generic [ref=e144]:
+              - list [ref=e145]:
+                - listitem [ref=e146]:
+                  - link " Add to Cart" [ref=e147] [cursor=pointer]:
+                    - /url: "#"
+                    - generic [ref=e148]: 
+                    - text: Add to Cart
+              - link " Print" [ref=e149] [cursor=pointer]:
+                - /url: javascript:window.print();
+                - generic [ref=e150]: 
+                - text: Print
+      - generic [ref=e153]:
+        - list [ref=e154]:
+          - listitem [ref=e155]:
+            - link "Description" [ref=e156]:
+              - /url: "#description"
+          - listitem [ref=e157]:
+            - link "Reviews (0)" [ref=e158] [cursor=pointer]:
+              - /url: "#review"
+          - listitem [ref=e159]:
+            - link "Related Products (2)" [ref=e160] [cursor=pointer]:
+              - /url: "#relatedproducts"
+        - generic [ref=e161]:
+          - generic [ref=e162]:
+            - paragraph [ref=e163]: Fashion Thirsty® branded products are only available exclusively through Fashion Thirsty
+            - list [ref=e164]:
+              - listitem [ref=e165]: Brand New In Box
+              - listitem [ref=e166]: Available In A Range Of Colours And Fabrics
+              - listitem [ref=e167]: "Outer Material: Synthetic"
+              - listitem [ref=e168]: "Inner Material: Manmade"
+              - listitem [ref=e169]: "Sole: manmade"
+              - listitem [ref=e170]: "Closure: Buckle"
+              - listitem [ref=e171]: "Heel Height: 4.3"
+              - listitem [ref=e172]: "Heel Type: Stiletto"
+              - listitem [ref=e173]: "Approx Heel Height: 4.3 Inches / 10.8 cm"
+              - listitem [ref=e174]: "Approx Platform Height: 0.1 inches / 0.3 cm"
+              - listitem [ref=e175]: Ankle Strap With Buckle Fastening
+            - list
+          - text: 
+  - contentinfo [ref=e179]:
+    - generic [ref=e181]:
+      - generic [ref=e184]:
+        - heading "About Us" [level=2] [ref=e185]
+        - paragraph [ref=e186]: This store has been created to enable students to practice their automation testing skills. This is not a real store, no orders are actually placed or payments taken. This store is to be used for educational purposes only.
+      - generic [ref=e189]:
+        - heading "Contact Us" [level=2] [ref=e190]
+        - list [ref=e191]:
+          - listitem [ref=e192]:
+            - generic [ref=e193]: 
+            - text: +123 456 7890
+          - listitem [ref=e194]:
+            - generic [ref=e195]: 
+            - text: admin@automationteststore.com
+      - generic [ref=e198]:
+        - heading "Testimonials" [level=2] [ref=e199]
+        - generic [ref=e200]:
+          - generic:
+            - list
+          - list [ref=e201]:
+            - listitem [ref=e202]:
+              - generic [ref=e203]: "1"
+            - listitem [ref=e204]:
+              - generic [ref=e205] [cursor=pointer]: "2"
+            - listitem [ref=e206]:
+              - generic [ref=e207] [cursor=pointer]: "3"
+            - listitem [ref=e208]:
+              - generic [ref=e209] [cursor=pointer]: "4"
+      - generic [ref=e212]:
+        - heading "Newsletter Signup" [level=2] [ref=e213]
+        - generic [ref=e214]:  Sign up to Our Newsletter & get attractive Offers by subscribing to our newsletters.
+        - generic [ref=e217]:
+          - textbox "Subscribe to Newsletter" [ref=e218]
+          - button "Subscribe" [ref=e220] [cursor=pointer]
+    - generic [ref=e222]:
+      - list [ref=e225]:
+        - listitem [ref=e226]:
+          - link "About Us" [ref=e228] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=content/content&content_id=1
+        - listitem [ref=e229]:
+          - link "Privacy Policy" [ref=e231] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=content/content&content_id=2
+        - listitem [ref=e232]:
+          - link "Return Policy" [ref=e234] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=content/content&content_id=3
+        - listitem [ref=e235]:
+          - link "Shipping" [ref=e237] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=content/content&content_id=4
+        - listitem [ref=e238]:
+          - link "Contact Us" [ref=e239] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=content/contact
+        - listitem [ref=e240]:
+          - link "Site Map" [ref=e241] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=content/sitemap
+        - listitem [ref=e242]:
+          - link "Login" [ref=e243] [cursor=pointer]:
+            - /url: https://automationteststore.com/index.php?rt=account/login
+      - generic [ref=e245]:
+        - link "Facebook" [ref=e246] [cursor=pointer]:
+          - /url: http://www.facebook.com
+        - link "Twitter" [ref=e247] [cursor=pointer]:
+          - /url: https://twitter.com/
+        - link "Linkedin" [ref=e248] [cursor=pointer]:
+          - /url: https://uk.linkedin.com/
+    - generic [ref=e250]:
+      - img "payments" [ref=e253]
+      - generic [ref=e254]:
+        - text: Powered By
+        - link "AbanteCart" [ref=e255] [cursor=pointer]:
+          - /url: http://www.abantecart.com
+        - text: Automation Test Store © 2026
+      - link "Support AbanteCart eCommerce" [ref=e258] [cursor=pointer]:
+        - /url: http://www.abantecart.com/contribute-to-abantecart
+        - img "Support AbanteCart eCommerce" [ref=e259]
+    - link "Back to top" [ref=e260] [cursor=pointer]:
+      - /url: "#"
